@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = AutoAssigner::VERSION
   spec.authors     = ["kei"]
   spec.email       = ["kei.takakuda.0415@icloud.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of AutoAssigner."
-  spec.description = "TODO: Description of AutoAssigner."
+  spec.homepage    = "https://github.com/takakuda/auto_assigner"
+  spec.summary     = "remove before_action each controller"
+  spec.description = "remove before_action each controller"
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
