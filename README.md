@@ -1,8 +1,13 @@
 # AutoAssigner
-Short description and motivation.
+Almost remove easy before_action
 
 ## Usage
-Almost remove easy before_action
+
+```ruby
+load_params(params)
+```
+
+include ApplicationController or before_action
 
 ## Installation
 Add this line to your application's Gemfile:
