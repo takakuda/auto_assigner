@@ -1,3 +1,5 @@
+# Beta version
+
 # AutoAssigner
 Almost remove easy before_action
 
